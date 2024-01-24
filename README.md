@@ -1,1 +1,4 @@
 # iptv
+从test_channel.m3u里手动提取了几个电视台放在o_cn.m3u里
+o_cn.m3u是我的订阅路径
+从test_channel.m3u疑似是test_channels_banned_cn.m3u的子集
