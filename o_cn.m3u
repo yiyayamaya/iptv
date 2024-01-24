@@ -13,3 +13,26 @@
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="13846" tvg-country="cn" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="cctv",[BD]cctv-5@@1
 https://epg.pw/stream/78554612e264c2471188d58c6a28a58f962bde7decdd7b1d01d1bd3c4ae52f40.m3u8
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="13842" tvg-country="cn" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="cctv",[BD]cctv-1@@1
+https://epg.pw/stream/246edec72dee3430da0407345022a1441d37ef5cda366a27b8eabbcac75aa3f9.m3u8
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-id="13855" tvg-country="cn" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_97.png" group-title="cctv",[HD]cctv-13@@1
+https://epg.pw/stream/10b3d0ac8dd56e98c3db8646259e46579fbb75fb439c34415d9273c39ee4a1b4.m3u8
+
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="13844" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091336175188_30.png" group-title="cctv",[BD]cctv-3@@1
+https://epg.pw/stream/02fe0d526ee4ee9c77d5a0efbddbba6268f1794461da40367539bd576ccda328.m3u8
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-id="13848" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134545485583_48.png" group-title="cctv",[BD]cctv6
+https://epg.pw/stream/f2a3f4d8ff377b5c5fb5eadcb530e207bb3c8a43f7d674e2edd6da7f850b010b.m3u8
+
+#EXTINF:-1 tvg-name="cctv-2" tvg-id="" tvg-country="泰國" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/1_124.jpg" group-title="cctv",[BD]cctv-2
+https://epg.pw/stream/66939182311712d9cfd038560ef1eae616920c952ad5ab12d7cf081b2cdde887.m3u8
+
+#EXTINF:-1 tvg-name="guangdongtv" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]guangdongtv
+https://epg.pw/stream/540909b2960aa4acd62b0e282cfac3707dd4076ea6ea16e6ee4e744f68051435.m3u8
+
+#EXTINF:-1 tvg-name="dongfangtv" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206010930235481_52.jpg" group-title="cctv",[BD]dongfangtv
+https://epg.pw/stream/a42a02cfd30ebb2aaf7cc53103c3b4852625b37b55495e02470c7043688cd4cf.m3u8
+
+#EXTINF:-1 tvg-name="shenzhentv" tvg-id="13875" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721150738694579_89.png" group-title="cctv",[BD]shenzhentv
+https://epg.pw/stream/35d4ba54bc8d59c4aed35aebe125cdcfb8be54a090d407aad063b667f102037c.m3u8
