@@ -37,3 +37,10 @@ https://epg.pw/stream/a42a02cfd30ebb2aaf7cc53103c3b4852625b37b55495e02470c704368
 
 #EXTINF:-1 tvg-name="shenzhentv" tvg-id="13875" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721150738694579_89.png" group-title="cctv",[BD]shenzhentv
 https://epg.pw/stream/35d4ba54bc8d59c4aed35aebe125cdcfb8be54a090d407aad063b667f102037c.m3u8
+
+
+#EXTINF:-1 tvg-name="liaoningtv" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]liaoningtv
+https://epg.pw/stream/7415d60095f30576d50acfbe52494f8833186e15d0e2eee2c2c6e9a2d9871e44.m3u8
+
+#EXTINF:-1 tvg-name="hunantv" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]hunantv
+https://epg.pw/stream/ef71867a8644735b09f5399278a3ce67b0cd46e1100159c789b9240a5bf4c2bb.m3u8
