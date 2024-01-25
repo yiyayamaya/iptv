@@ -22,11 +22,10 @@ https://epg.pw/stream/10b3d0ac8dd56e98c3db8646259e46579fbb75fb439c34415d9273c39e
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="13844" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091336175188_30.png" group-title="cctv",[BD]cctv-3@@1
 https://epg.pw/stream/02fe0d526ee4ee9c77d5a0efbddbba6268f1794461da40367539bd576ccda328.m3u8
 
-#EXTINF:-1 tvg-name="CCTV-6@@4" tvg-id="13848" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134545485583_48.png" group-title="cctv",[BD]cctv6
-https://epg.pw/stream/f2a3f4d8ff377b5c5fb5eadcb530e207bb3c8a43f7d674e2edd6da7f850b010b.m3u8
+#EXTINF:-1 tvg-name="CCTV-6@@4" tvg-id="13848" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134545485583_48.png" group-title="cctv",[BD]CCTV-6@@4
 https://epg.pw/stream/aa05ffcc867aaeac5aa5fabd1f44afb4ac15beea1ffb12345dde9bfbbeb18980.m3u8
 
-#EXTINF:-1 tvg-name="cctv-2@@5" tvg-id="" tvg-country="泰國" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/1_124.jpg" group-title="cctv",[BD]cctv-2
+#EXTINF:-1 tvg-name="cctv-2@@5" tvg-id="" tvg-country="泰國" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/1_124.jpg" group-title="cctv",[BD]cctv-2@@5
 https://epg.pw/stream/156bd9fce476b7812f78277477dc861623ddcbdf5fdd58f34fc88aafb17e2a48.m3u8
 
 
