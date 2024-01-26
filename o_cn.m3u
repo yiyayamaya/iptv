@@ -104,3 +104,6 @@ https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4
 
 #EXTINF:-1 tvg-name="jilin" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]jilin
 https://epg.pw/stream/2177625f52b87e8bcbfec3b4a1fa03dee2d73e25190fa94f9d64b9506078bf52.m3u8
+
+#EXTINF:-1 tvg-name="qinghai" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]qinghai
+https://epg.pw/stream/7e147ab8f173096d5eeb204d563023fc365b318962bc70dbf5f55b21b45954f0.m3u8
