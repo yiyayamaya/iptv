@@ -49,3 +49,37 @@ https://epg.pw/stream/ef71867a8644735b09f5399278a3ce67b0cd46e1100159c789b9240a5b
 
 #EXTINF:-1 tvg-name="anhuitv" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]anhuitv
 https://epg.pw/stream/8cdd7162a7567cbdd53fa82d6bf16d3cb3de3c99404628a3f7cf7e6a74ed69d3.m3u8
+
+
+#EXTINF:-1 tvg-name="jiangsu" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]jiangsu
+https://epg.pw/stream/632b9f5f7dc8ea8eaa35e8bb5be209dcb1585c27af34a0ac1102ed704bd47535.m3u8
+
+#EXTINF:-1 tvg-name="dongnan" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]dongnan
+https://epg.pw/stream/dc78099da14e1f4754a5b065a9bd7385a545f0fbe7bafbab1ae2ef56e8c1594f.m3u8
+
+
+#EXTINF:-1 tvg-name="beijing" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]beijing
+https://epg.pw/stream/5e3b54329852616e4df9ca722bb77d8bd184a8ecedbf67c1706959c80f5bc6ea.m3u8
+
+#EXTINF:-1 tvg-name="tianjin" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]tianjin
+https://epg.pw/stream/9b89f9fbb64cddfb8592c97dcf4a27a17f3aff30063c5429e3f2dcb7f60eb578.m3u8
+
+
+#EXTINF:-1 tvg-name="chongqing" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]chongqing
+https://epg.pw/stream/60342cf5769d645e582aca8313d67e6dc6ffe49a4636b01af010a46ac4fd6820.m3u8
+
+
+#EXTINF:-1 tvg-name="zhejiang" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]zhejiang
+https://epg.pw/stream/196a5d530b2fc914b6468f45d9c60864a0e9cca1c2d967ced21d7330eaa6ffb5.m3u8
+
+
+#EXTINF:-1 tvg-name="jiangxi" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]jiangxi
+https://epg.pw/stream/3a4ce6c3c88f9a48159105ca4decde9c56b5a64c226527f0be5f733087d73250.m3u8
+
+
+#EXTINF:-1 tvg-name="heilongjiang" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]heilongjiang
+https://epg.pw/stream/fb44bb434138eee10baa1429c89d732bf8be1e3cc4b6fd93595affd35909cac9.m3u8
+
+
+#EXTINF:-1 tvg-name="sichuan" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]sichuan
+https://epg.pw/stream/ac515ff4e129eddc3e37a82821f33c9821a8f5bbea08748b63bbbbd6224b9913.m3u8
