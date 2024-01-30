@@ -40,11 +40,10 @@ https://epg.pw/stream/35d4ba54bc8d59c4aed35aebe125cdcfb8be54a090d407aad063b667f1
 
 
 #EXTINF:-1 tvg-name="liaoningtv" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]liaoningtv
-https://epg.pw/stream/7415d60095f30576d50acfbe52494f8833186e15d0e2eee2c2c6e9a2d9871e44.m3u8
+https://epg.pw/stream/56c6e52cfa8febdd64b874e119f00b5dfa33b4189a5ecacea706794585f81bca.m3u8
 
 #EXTINF:-1 tvg-name="hunantv" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]hunantv
-https://epg.pw/stream/ef71867a8644735b09f5399278a3ce67b0cd46e1100159c789b9240a5bf4c2bb.m3u8
-
+https://epg.pw/stream/12d05741c7538b8d33d5e3e5828117e98b6a1ae88da696840fdcb664eb2cdc1f.m3u8
 
 
 #EXTINF:-1 tvg-name="anhuitv" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]anhuitv
@@ -82,20 +81,11 @@ https://epg.pw/stream/fb44bb434138eee10baa1429c89d732bf8be1e3cc4b6fd93595affd359
 
 
 #EXTINF:-1 tvg-name="sichuan" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]sichuan
-https://epg.pw/stream/ac515ff4e129eddc3e37a82821f33c9821a8f5bbea08748b63bbbbd6224b9913.m3u8
-
-
-#EXTINF:-1 tvg-name="guizhou" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]guizhou
-https://epg.pw/stream/42a9e6be5b1712cc51d3779440c4ac2eb57251677a59d670b4f17fb80cb0f972.m3u8
+https://epg.pw/stream/f12d8c8feff30eeccf9d82832a24b81d0e58c7f578d048aeaa7ee290740682ad.m3u8
 
 
 #EXTINF:-1 tvg-name="hubei" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]hubei
 https://epg.pw/stream/cc8167e051ebb65067dc3f1af8c06f0e90adba839d01b0e5e36f7166bc964301.m3u8
-
-
-#EXTINF:-1 tvg-name="guangxi" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]guangxi
-https://epg.pw/stream/57fd1f48302171de006742fe6a8f9043a333d8fdf011cb4d7039d3c439b3193a.m3u8
-
 
 
 #EXTINF:-1 tvg-name="shandong" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]shandong
@@ -105,5 +95,25 @@ https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4
 #EXTINF:-1 tvg-name="jilin" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]jilin
 https://epg.pw/stream/2177625f52b87e8bcbfec3b4a1fa03dee2d73e25190fa94f9d64b9506078bf52.m3u8
 
-#EXTINF:-1 tvg-name="qinghai" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]qinghai
-https://epg.pw/stream/7e147ab8f173096d5eeb204d563023fc365b318962bc70dbf5f55b21b45954f0.m3u8
+
+#EXTINF:-1 tvg-name="jinying" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]jinying
+https://epg.pw/stream/52e1fdf51d70dbe10741180ebbc259d9bb02e3187e49628abe806cde439d5973.m3u8
+
+
+#EXTINF:-1 tvg-name="jinbaotiyu" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]jinbaotiyu
+https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.m3u8
+
+
+#EXTINF:-1 tvg-name="animax" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]animax
+https://epg.pw/stream/dbaf8534ca83e473da9966f3a48e587f58916f78abb2e937039b0b1a08267f86.ctv
+
+
+#EXTINF:-1 tvg-name="animax" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]channel u
+https://epg.pw/stream/47eaee5ee0e663d4c6386e2fcc0af3af1ddf896a547a80e319653b2b63e26bbb.ctv
+
+
+#EXTINF:-1 tvg-name="ani all day" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]ani all day
+https://epg.pw/stream/24ed266eff555213de6e7f03deae8e658f45f667e21e1c25a74edb63681eea80.m3u8
+
+#EXTINF:-1 tvg-name="op" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="cctv",[BD]op
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
