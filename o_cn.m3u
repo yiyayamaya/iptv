@@ -1,96 +1,84 @@
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",cctv5
+#EXTINF:-1,cctv5
 https://epg.pw/stream/78554612e264c2471188d58c6a28a58f962bde7decdd7b1d01d1bd3c4ae52f40.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",cctv1
+#EXTINF:-1,cctv1
 https://epg.pw/stream/246edec72dee3430da0407345022a1441d37ef5cda366a27b8eabbcac75aa3f9.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",cctv13
+#EXTINF:-1,cctv13
 https://epg.pw/stream/10b3d0ac8dd56e98c3db8646259e46579fbb75fb439c34415d9273c39ee4a1b4.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",cctv3
+#EXTINF:-1,cctv3
 https://epg.pw/stream/02fe0d526ee4ee9c77d5a0efbddbba6268f1794461da40367539bd576ccda328.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",CCTV6
+#EXTINF:-1,CCTV6
 https://epg.pw/stream/aa05ffcc867aaeac5aa5fabd1f44afb4ac15beea1ffb12345dde9bfbbeb18980.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",cctv2
+#EXTINF:-1,cctv2
 https://epg.pw/stream/156bd9fce476b7812f78277477dc861623ddcbdf5fdd58f34fc88aafb17e2a48.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",guang dong
+#EXTINF:-1,guang dong
 https://epg.pw/stream/540909b2960aa4acd62b0e282cfac3707dd4076ea6ea16e6ee4e744f68051435.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",dong fang
+#EXTINF:-1,dong fang
 https://epg.pw/stream/a42a02cfd30ebb2aaf7cc53103c3b4852625b37b55495e02470c7043688cd4cf.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",shen zhen
+#EXTINF:-1,shen zhen
 https://epg.pw/stream/35d4ba54bc8d59c4aed35aebe125cdcfb8be54a090d407aad063b667f102037c.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",liao ning
+#EXTINF:-1,liao ning
 https://epg.pw/stream/56c6e52cfa8febdd64b874e119f00b5dfa33b4189a5ecacea706794585f81bca.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",hu nan
+#EXTINF:-1,hu nan
 https://epg.pw/stream/12d05741c7538b8d33d5e3e5828117e98b6a1ae88da696840fdcb664eb2cdc1f.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",an hui
+#EXTINF:-1,an hui
 https://epg.pw/stream/8cdd7162a7567cbdd53fa82d6bf16d3cb3de3c99404628a3f7cf7e6a74ed69d3.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",jiang su
+#EXTINF:-1,jiang su
 https://epg.pw/stream/632b9f5f7dc8ea8eaa35e8bb5be209dcb1585c27af34a0ac1102ed704bd47535.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",dong nan
+#EXTINF:-1,dong nan
 https://epg.pw/stream/dc78099da14e1f4754a5b065a9bd7385a545f0fbe7bafbab1ae2ef56e8c1594f.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",bei jing
+#EXTINF:-1,bei jing
 https://epg.pw/stream/5e3b54329852616e4df9ca722bb77d8bd184a8ecedbf67c1706959c80f5bc6ea.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",tian jin
+#EXTINF:-1,tian jin
 https://epg.pw/stream/9b89f9fbb64cddfb8592c97dcf4a27a17f3aff30063c5429e3f2dcb7f60eb578.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",chong qing
+#EXTINF:-1,chong qing
 https://epg.pw/stream/60342cf5769d645e582aca8313d67e6dc6ffe49a4636b01af010a46ac4fd6820.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",zhe jiang
+#EXTINF:-1,zhe jiang
 https://epg.pw/stream/196a5d530b2fc914b6468f45d9c60864a0e9cca1c2d967ced21d7330eaa6ffb5.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",jiang xi
+#EXTINF:-1,jiang xi
 https://epg.pw/stream/3a4ce6c3c88f9a48159105ca4decde9c56b5a64c226527f0be5f733087d73250.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",hei long jiang
+#EXTINF:-1,hei long jiang
 https://epg.pw/stream/fb44bb434138eee10baa1429c89d732bf8be1e3cc4b6fd93595affd35909cac9.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",hu bei
+#EXTINF:-1,hu bei
 https://epg.pw/stream/cc8167e051ebb65067dc3f1af8c06f0e90adba839d01b0e5e36f7166bc964301.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",shan dong
+#EXTINF:-1,shan dong
 https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4beeb7b.ctv
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",ji lin
+#EXTINF:-1,ji lin
 https://epg.pw/stream/2177625f52b87e8bcbfec3b4a1fa03dee2d73e25190fa94f9d64b9506078bf52.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",jin ying
+#EXTINF:-1,jin ying
 https://epg.pw/stream/52e1fdf51d70dbe10741180ebbc259d9bb02e3187e49628abe806cde439d5973.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",ani all day
+#EXTINF:-1,ani all day
 https://epg.pw/stream/24ed266eff555213de6e7f03deae8e658f45f667e21e1c25a74edb63681eea80.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",one piece
+#EXTINF:-1,one piece
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="cctv",pokemon
+#EXTINF:-1,pokemon
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
+
+#EXTINF:-1 ,Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8 
